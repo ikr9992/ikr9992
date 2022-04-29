@@ -1,0 +1,12 @@
+repeat wait() until game:IsLoaded()
+local PlaceId = game.PlaceId
+
+if PlaceId == 6284583030 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ikr9992/ikr9992/main/youngol34hnigt9ht9t392390538954895498564905865896838968959086468489655953609654786496634083056654357863985478340846054896574893905867567546784903857405968565304586574963846590568596734965536346465865896386946573845603564963546894586743873897860968349605434356546543")()
+elseif PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ikr9992/ikr9992/main/359dn9enb39389h93th9h9eh9h9hj3h9e3th93eth934th93et9hwh9h9wh9wh9wgsv9hswfgv8sxgv8hsf8hsh8swgh8swg8hswgh8egihh8th8tg8hth8th8rh8rh8trh8h8gh8gh8dgh8gd38rvy38r88hsfvsfvugfg7gdsg7fgyufggusvuhcnvhvrnnnfvgn"))()
+else
+	game.Players.LocalPlayer:kick("game not support here is all support game : Bee swarn simulator , blox fruit")
+	wait(1)
+	game:Shutdown()
+end
