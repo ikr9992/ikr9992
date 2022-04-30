@@ -1,3 +1,1 @@
-Ola Im Klemplus
-This is me script 
-*WARNING : This BASED fROM MUKURO HUB 
+AMONG USSS!1111!!!
